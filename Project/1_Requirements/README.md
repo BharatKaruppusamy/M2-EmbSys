@@ -13,3 +13,22 @@ SWOT ANALYSIS:
 5W AND 1H
 -----------------------------------------
 ![image](https://user-images.githubusercontent.com/98965702/155770051-3b0ee59d-8b51-4406-b60e-631f7c579f5f.png)
+
+
+##HIGHLEVEL REQUIREMENTS:
+-----------------------------------------
+|ID| Decryption|
+|--|--|
+|HR01	|Signal Alarm|
+|HR02	|Temperature measuring
+
+
+##LOWLEVEL REQUIREMENTS:
+------------------------------------------
+|ID|	Description|
+|--|--|
+|LR01	|EEG|
+|LR02	|Electrodes|
+|LR03	|Clock requirements|
+|LR04	|Digital requirements
+
