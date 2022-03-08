@@ -18,3 +18,10 @@ LCD Display
 Before wiring the LCD screen to your Arduino board we suggest to solder a pin header strip to the 14 (or 16) pin count connector of the LCD screen, as you can see in the image further up. To wire your LCD screen to your board, connect the following pins: LCD RS pin to digital pin 12. LCD Enable pin to digital pin 11.
 ![image](https://user-images.githubusercontent.com/98965702/157175264-c88e4422-3b87-4734-9840-b5082cc77850.png)
 
+
+Buzzer
+--------------------------------------------
+![image](https://user-images.githubusercontent.com/98965702/157223727-fa0f7eb8-a6bc-4d39-bafb-4dcf873d9230.png)
+--------------------------------------------
+The buzzer is a sounding device that can convert audio signals into sound signals. It is usually powered by DC voltage. It is widely used in alarms, computers, printers and other electronic products as sound devices.
+
