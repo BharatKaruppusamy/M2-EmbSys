@@ -61,3 +61,7 @@ ALARM
 --------------------------------
 Consider a modern digital alarm clock. It is an example of where an embedded system is commonly used. The alarm clock is mass-produced. To keep costs low, an integrated circuit
 (I/C) is designed for it.
+
+LCD Display
+-------------------------------------------
+Before wiring the LCD screen to your Arduino board we suggest to solder a pin header strip to the 14 (or 16) pin count connector of the LCD screen, as you can see in the image further up. To wire your LCD screen to your board, connect the following pins: LCD RS pin to digital pin 12. LCD Enable pin to digital pin 11. 
