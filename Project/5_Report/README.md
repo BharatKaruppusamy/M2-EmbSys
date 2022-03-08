@@ -56,3 +56,8 @@ Output
 -----------------------------------
 ![Output](https://user-images.githubusercontent.com/98965702/157294415-f4abbc0c-a8ba-4488-9531-fc85d6f4aa96.png)
 
+
+ALARM
+--------------------------------
+Consider a modern digital alarm clock. It is an example of where an embedded system is commonly used. The alarm clock is mass-produced. To keep costs low, an integrated circuit
+(I/C) is designed for it.
