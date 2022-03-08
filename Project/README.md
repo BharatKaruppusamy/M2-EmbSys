@@ -11,5 +11,5 @@ Folder	Description
 
 3_Implementation	All code and documentation
 
-4_Test_plan and output	Documents with test plans and procedur
+4_Test_plan and output	Documents with test plans and proced
 
