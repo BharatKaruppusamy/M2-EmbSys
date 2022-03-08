@@ -71,3 +71,5 @@ Before wiring the LCD screen to your Arduino board we suggest to solder a pin he
 Buzzer
 -------------------------------
 ![image](https://user-images.githubusercontent.com/98965702/157296007-c91a3d35-2bae-4988-82d8-a164323d61cd.png)
+
+The buzzer is a sounding device that can convert audio signals into sound signals. It is usually powered by DC voltage. It is widely used in alarms, computers, printers and other electronic products as sound devices.
