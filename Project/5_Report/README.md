@@ -66,3 +66,7 @@ LCD Display
 -------------------------------------------
 Before wiring the LCD screen to your Arduino board we suggest to solder a pin header strip to the 14 (or 16) pin count connector of the LCD screen, as you can see in the image further up. To wire your LCD screen to your board, connect the following pins: LCD RS pin to digital pin 12. LCD Enable pin to digital pin 11. 
 ![image](https://user-images.githubusercontent.com/98965702/157295537-e89f74cc-cd5e-4505-9376-0b0a047ba586.png)
+
+
+Buzzer
+-------------------------------
